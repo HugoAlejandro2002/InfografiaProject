@@ -7,6 +7,7 @@ set(PICOSYSTEM_DIR C:/Users/ALE/Documents/Pico-v1.5.1/picosystem)
 # Set your project sources here
 set(PROJECT_SOURCES
     main.cpp
+    utility/music.hpp
 )
 
 # --- Here Be Boilerplate ---
